@@ -1,4 +1,4 @@
-#Caesar Cipher
+# Caesar Cipher
 Usage:
       CommandLine ~ $ python3 CaesarCipher.py [language] [cipher] [key] [text]
 
